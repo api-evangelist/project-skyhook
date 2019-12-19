@@ -1,0 +1,46 @@
+{
+    "name": "Project Skyhook",
+    "description": "The $999, portable, open source Bitcoin ATM",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11425-project-skyhook.jpg",
+    "tags": [
+        "blockchain",
+        "have api",
+        "marketplaces",
+        "virtual currency"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/project-skyhook\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Project Skyhook",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11425-project-skyhook.jpg",
+            "humanURL": "http:\/\/projectskyhook.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/project-skyhook-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/project-skyhook-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SkyhookBTC"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/projectskyhook.com\/"
+        }
+    ]
+}
